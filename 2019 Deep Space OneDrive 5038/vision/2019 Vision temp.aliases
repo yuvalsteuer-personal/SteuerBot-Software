@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "10.50.38.10"
+
+[NI roboRIO]
+NI roboRIO = "roboRIO-5038-FRC.local"
+
