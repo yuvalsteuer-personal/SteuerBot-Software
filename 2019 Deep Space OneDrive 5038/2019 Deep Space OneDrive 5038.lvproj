@@ -167,6 +167,8 @@ AddOutputFilter chunkFilter
 		<Item Name="Vision Processing Performance.vi" Type="VI" URL="../../../../../Desktop/vision labview/Vision Processing Performance.vi"/>
 		<Item Name="Distance From Target.vi" Type="VI" URL="/C/Program Files (x86)/National Instruments/LabVIEW 2018/examples/FRC/roboRIO/Vision/2019 Vision Example/Distance From Target.vi"/>
 		<Item Name="Get XY Coordinates.vi" Type="VI" URL="../Get XY Coordinates.vi"/>
+		<Item Name="Change Cargo Arm Speed.vi" Type="VI" URL="../../2019 Dashboard Deep Space OneDrive 5038/Change Cargo Arm Speed.vi"/>
+		<Item Name="Compute Angle From Camera.vi" Type="VI" URL="../../2019 Dashboard Deep Space OneDrive 5038/Compute Angle From Camera.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -820,7 +822,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
